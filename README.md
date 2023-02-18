@@ -18,6 +18,9 @@ Then copy this
 Copy and paste the cookie into the .py file
 ![alt text](https://i.imgur.com/T7slvtg.gif)
 5. Launch and enjoy!
+# [Flowi Support and more](https://discord.gg/5Csg8bEP7K)
+
+## Notes:
 
 ### This is still in development so it may have some bugs if it gets stuck just restart it
 
